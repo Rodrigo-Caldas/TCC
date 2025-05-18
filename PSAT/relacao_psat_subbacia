@@ -1,0 +1,128 @@
+,Posto,Lat,Lon,Subbacia Associada
+0,PSATAGV,-19.89,-50.35,Água Vermelha
+1,PSATCMG,-21.28,-44.63,Camargos
+2,PSATCES,-20.25,-48.16,Capão Escuro
+3,PSATELC,-21.6,-46.95,Euclides da Cunha
+4,PSATFUN,-21.14,-45.04,Funil
+5,PSATFUR,-20.67,-46.32,Furnas
+6,PSATMRB,-20.3,-49.18,Marimbondo
+7,PSATPRG,-21.59,-45.67,Paraguaçu
+8,PSATPAS,-21.02,-48.18,Passagem
+9,PSATPTB,-21.61,-45.49,Porto dos Buenos
+10,PSATPTC,-20.0,-48.55,Porto Colombia
+11,PSATFZA,-26.0,-51.65,Foz do Areia
+12,PSATJSG,-25.78,-52.0,Jordão-Segredo
+13,PSATSCX,-25.53,-53.48,Salto Caxias
+14,PSATSCL,-25.49,-51.74,Santa Clara
+15,PSATUVT,-26.23,-51.08,União da Vitória
+16,PSATBSM,-24.19,-53.74,Balsa Santa Maria
+17,PSATFLE,-22.97,-54.56,Flórida+Estrada
+18,PSATITP,-25.42,-54.58,Itaipu
+19,PSATIVM,-22.38,-53.53,Ivinhema
+20,PSATPTQ,-23.18,-53.17,Porto Taquara
+21,PSATCBI,-17.99,-48.54,Corumbá I
+22,PSATCBIV,-16.15,-48.67,Corumbá IV
+23,PSATEMB,-18.45,-47.98,Emborcação
+24,PSATIMBR,-18.42,-49.1,Itumbiara
+25,PSATNPTE,-19.13,-47.7,Nova Ponte
+26,PSATARV,-18.07,-50.16,Abaixo do rio Verde
+27,PSATSFC,-18.05,-47.68,Serra do Facão
+28,PSATSSM,-19.02,-50.5,São Simão
+29,PSATCNI,-22.94,-50.52,Canoas I
+30,PSATCPV,-22.65,-51.33,Capivara
+31,PSATCHT,-23.01,-49.73,Chavantes
+32,PSATJUR,-23.22,-49.23,Jurumirim
+33,PSATMAU,-24.06,-50.71,Mauá
+34,PSATROS,-22.5,-52.87,Rosana
+35,PSATQMD,-16.21,-47.33,Queimado
+36,PSATRBX,-18.95,-44.76,Retiro Baixo
+37,PSATSFR,-15.93,-44.86,São Francisco
+38,PSATSRM,-16.37,-45.07,São Romão
+39,PSATTMR,-18.16,-45.27,Três Marias
+40,PSATBOQ,-11.35,-43.83,Boqueirão
+41,PSATBBO,-22.52,-48.55,Barra Bonita
+42,PSATESZ,-23.46,-46.91,Edgard de Souza
+43,PSATIBT,-21.76,-48.99,Ibitinga
+44,PSATNAV,-21.12,-50.2,Nova Avanhandava
+45,PSATSME,-13.4,-48.3,Serra da Mesa
+46,PSATBGR,-27.78,-51.2,Barra Grande
+47,PSATCNV,-27.6,-51.33,Campos Novos
+48,PSATFCH,-27.14,-53.04,Foz do Chapecó
+49,PSATITA,-27.27,-52.38,Itá
+50,PSATMCD,-27.52,-51.78,Machadinho
+51,PSATMOJ,-27.35,-52.73,Monjolinho
+52,PSATQQX,-26.66,-52.54,Quebra-Queixo
+53,PSATPSJ,-28.14,-55.05,Passo São João
+54,PSATESP,-18.68,-51.87,Espora
+55,PSATSRC,-19.16,-50.76,Salto do Rio Verdinho
+56,PSATFRCL,-19.12,-50.64,Foz do Rio Claro
+57,PSATISOT,-20.4,-51.35,Ilha Solteira
+58,PSATJUP,-20.86,-51.63,Jupiá
+59,PSATSDG,-20.06,-53.18,Sao Domingos
+60,PSATFZBT,-21.66,-52.87,Fazenda Buriti
+61,PSATPPRA,-22.46,-52.91,Porto Primavera
+62,PSATBTE,-13.69,-50.8,Bandeirantes
+63,PSATARAG,-8.27,-49.26,Conceição do Araguaia
+64,PSATLAJ,-9.76,-48.37,Lajeado
+65,PSATPTRL,-9.31,-47.39,Porto Real
+66,PSATLJET,-7.33,-47.48,Estreito TOC
+67,PSATUCR,-3.83,-49.65,Tucuruí
+68,PSATXIVJ,-29.07,-51.67,14 de Julho
+69,PSATDFRC,-29.45,-53.28,Dona Francisca
+70,PSATREAL,-29.02,-53.19,Passo Real
+71,PSATCTAV,-29.01,-51.39,Castro Alves
+72,PSATERNT,-28.56,-52.54,Ernestina
+73,PSATSTPL,-27.14,-49.52,Salto Pilão
+74,PSATCVCH,-25.14,-48.87,Capivari Cachoeira
+75,PSATAMY,-12.6,-69.12,Amaru Mayu
+76,PSATEGM,-10.79,-64.35,Guajará Mirim
+77,PSATPEPB,-12.42,-64.42,Príncipe da Beira
+78,PSATSTOA,-8.79,-63.95,Santo Antônio
+79,PSATDARD,-10.16,-59.46,Dardanelos
+80,PSATGUAP,-15.12,-58.96,Guaporé
+81,PSATJIRA,-9.25,-64.65,Jirau (incremental)
+82,PSATROND,-11.99,-60.7,Rondon II
+83,PSATSAMU,-8.75,-63.45,Samuel
+84,PSATBSOR,-6.74,-52.0,Boa Sorte
+85,PSATBESP,-6.75,-51.77,Boa Esperança (posto)
+86,PSATPIME,-3.41,-51.91,Pimental (incremental)
+87,PSATCOLI,-10.98,-55.77,Colíder
+88,PSATSAEL,-9.19,-57.04,São Manoel
+89,PSATBALB,-1.92,-59.47,Balbina
+90,PSATCUNA,-2.82,-54.3,Curua-Una
+91,PSATJARI,-0.65,-52.52,Sto Antônio do Jari
+92,PSATFGOM,0.86,-51.2,Ferreira Gomes
+93,PSATIRAP,-16.74,-42.57,Irapé
+94,PSATITBI,-15.97,-39.59,Itapebi
+95,PSATUBE,-6.75,-43.57,Uhe Boa Esperança
+96,PSATITQ,-17.09,-54.83,Itiquira
+97,PSATJAU,-15.24,-58.73,Jauru
+98,PSATMAN,-14.87,-55.78,Manso
+99,PSATPTP,-17.61,-54.83,Ponte de Pedra
+100,PSATPDC,-12.58,-39.0,Pedra do Cavalo
+101,PSATSTCL,-17.9,-40.2,Santa Clara
+102,PSATROSA,-20.92,-41.72,Rosal
+103,PSATCAN,-20.21,-42.85,Candoga
+104,PSATSAC,-19.64,-42.85,Sa Carvalho
+105,PSATPES,-19.12,-42.66,Porto Estrela
+106,PSATMAS,-19.5,-40.92,Mascarenhas
+107,PSATSBR,-23.37,-45.87,Santa Branca
+108,PSATJAG  ,-23.2,-46.03,Jaguari
+109,PSATFUNI ,-22.53,-44.57,Funil
+110,PSATSACE ,-22.48,-43.84,Santa Cecília
+111,PSATPIC  ,-21.91,-43.54,Picada
+112,PSATSOGI ,-21.94,-43.36,Sobragi
+113,PSATIPSI ,-21.84,-42.58,Ilha dos Pombos
+114,PSATTCLJ  ,-22.69,-43.83,Tocos + Lajes
+115,PSATBIGU,-25.51,-53.67,Baixo Iguacu
+116,PSATBRAU,-21.45,-42.41,Barra do Brauna
+117,PSATSUIC,-20.08,-40.58,Suiça
+118,PSATAMY1,-11.71,-70.63,Amaru Mayu 1
+119,PSATAMY2,-12.37,-71.17,Amaru Mayu 2
+120,PSATAMY3,-13.75,-70.18,Amaru Mayu 3
+121,PSATAMY4,-13.45,-69.47,Amaru Mayu 4
+122,PSATJRI,-9.3,-64.7,UHE Jirau Inc
+123,PSATBENI,-14.59,-67.53,Montante do rio Beni
+124,PSATENC,-9.9,-66.62,Nova California
+125,PSATJRN,-13.37,-59.01,Juruena
+126,PSATAPI,-10.34,-56.98,Salto Apiacas
