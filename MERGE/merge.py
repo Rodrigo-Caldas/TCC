@@ -52,8 +52,15 @@ for (ano, mes), entradas in sorted(arquivos_por_mes.items()):
 
     # Concatena todos em um só dataset horário
     ds_horario = xr.concat(datasets, dim="time")
-    # Corrige o tempo para horário de Brasília (UTC-3)
-    ds_brasilia = ds_horario.assign_coords(time=ds_horario.time - pd.Timedelta(hours=3))
+    # Corrige o tempo para timezone UTC e converte para horário de Brasília (com horário de verão)
+    time_local = (
+        ds_horario.indexes["time"]
+        .tz_localize("UTC")
+        .tz_convert("America/Sao_Paulo")
+        .tz_localize(None)
+    )
+    ds_brasilia = ds_horario.assign_coords(time=time_local)
+
     # Acumula a precipitação diária
     ds_diario = ds_brasilia.resample(time="1D").sum()
 
